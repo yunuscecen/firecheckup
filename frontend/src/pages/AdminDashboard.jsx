@@ -356,7 +356,7 @@ const AdminDashboard = () => {
                 Oteli Sisteme Kaydet
               </button>
             </form>
-          </div>
+        </div>
 
           {/* ── TABLO ── */}
           <div className="fc-card fc-up" style={{ padding: '28px', animationDelay: '0.1s' }}>
